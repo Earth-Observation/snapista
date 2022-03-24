@@ -1,5 +1,7 @@
 from types import SimpleNamespace
-from snappy import GPF, jpy
+# from snappy import GPF, jpy
+from esasnappy import GPF, jpy
+
 from .operatorparams import OperatorParams
 
 

@@ -1,4 +1,5 @@
-from snappy import GPF
+# from snappy import GPF
+from esasnappy import GPF
 
 
 class OperatorParams:

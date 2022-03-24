@@ -2,7 +2,8 @@ import os
 import subprocess
 import tempfile
 import lxml.etree as etree
-from snappy import GPF
+# from snappy import GPF
+from esasnappy import GPF
 from xml.sax.saxutils import unescape
 from snapista.binning.output_bands import BinningOutputBands
 from .target_band_descriptors import TargetBandDescriptors
